@@ -1,0 +1,14 @@
+proj: WeatherAPI
+181116
+~ Intigrate WeatherAPI
+
+API: Using python
+
+remtpapi https://github.com/Candy128x/WeatherAPI
+brnpapi
+brnpapio
+
+---
+
+ref
+YT: https://youtu.be/lcWfSn6-m_8
